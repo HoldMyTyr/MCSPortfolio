@@ -4,7 +4,7 @@ body {
 	margin: 0 auto;
 	font: 
 		Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"Verdana, Arial, Helvetica, sans-serif;
-     background-color: #FF0000;
+     background-color: #FFFFFF;
      margin: 0;
      padding: 0;
      color: #000;
@@ -20,14 +20,14 @@ a:hover, a:active, a:focus {
 }
 
 .homePage {
-	background: #222222;
+	background: #13224A;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #58A1BB;
+	background: #173B69;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -46,7 +46,7 @@ a:hover, a:active, a:focus {
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #B1CDE1;
 	margin: 0px;
 	float: left;
 	width: 100%;
