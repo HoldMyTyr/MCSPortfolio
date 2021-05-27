@@ -95,7 +95,7 @@ class IO {
         //adds on the new name, date, time it took, and attemps
         PrintWriter out = new PrintWriter(fName);
         out.println(oldSpice);
-        out.println("\nName:" + pName + " Date:" + year + "/" + month + "/" + day  +" Milliaseconds:" + totalTime + " Attempts:" + attempts + "\n" + totalTime);
+        out.println("\nName:" + pName + " Date:" + year + "/" + month + "/" + day  +" Milliseconds:" + totalTime + " Attempts:" + attempts + "\n" + totalTime);
         out.close();
       }
 
